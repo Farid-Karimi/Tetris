@@ -20,6 +20,8 @@ highScoreRect = pygame.Rect(320, 500, 170, 60)
 
 screen = pygame.display.set_mode((500, 620))
 pygame.display.set_caption("Python Tetris")
+img = pygame.image.load('fonts/icon.png')
+pygame.display.set_icon(img)
 
 clock = pygame.time.Clock()
 
