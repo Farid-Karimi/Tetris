@@ -29,5 +29,7 @@ Through the development of this project, I achieved several learning outcomes, i
 In conclusion, the Python Tetris project served as an excellent opportunity for me to explore game development, refine my programming skills, and gain practical experience in utilizing the Pygame library.
 This project has provided a solid foundation for future game development endeavors and has been instrumental in enhancing my understanding of Python syntax, OOP principles, and design choices.
 I look forward to further expanding my knowledge and skills in game development through future projects.
----
-#### farid karimi
+
+## Screenshots
+![Screenshot 2023-07-05 195503](https://github.com/Farid-Karimi/Tetris/assets/118434072/5b4a4717-2de5-4192-ae8b-a703ce3914f5)
+
